@@ -1,1 +1,3 @@
-var Hero = cc.sprite.extend({});
+var Hero = cc.sprite.extend({
+
+});
