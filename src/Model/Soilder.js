@@ -1,31 +1,31 @@
 var Soilder = cc.sprite.extend({
-     ctor: function() {
-	        this._super();
-	    },
+    ctor:function(){
+        this._super();
+    },
     init:function(){
-        
+
     },
     loadData:function(){
-        
+
     },
     showUI:function(){
-        
+
     },
-    run:function() {
-        
+    run:function(){
+
     },
-    atk:function() {
-        
+    atk:function(){
+
     },
-    hurt:function(num) {
-        
+    hurt:function(num){
+
     },
-    isDeath:function() {
-        
+    isDeath:function(){
+
     },
-    
-    update:function() {
-        
+
+    update:function(){
+
     },
 });
 
